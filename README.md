@@ -1,4 +1,4 @@
-# Project Shadow: Recursive Agentic RAG for Indian Legal Q&A
+# Project: Recursive Agentic RAG for Indian Legal Q&A
 
 **Project Shadow** is an advanced AI framework designed to provide high-fidelity answers from a massive corpus of **48,000 Indian Supreme Court judgments**. 
 
